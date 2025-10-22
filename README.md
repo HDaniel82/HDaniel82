@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Huynh</h1>
-<h3 align="center">A upcoming software developer from Birmingham, Alabama</h3>
+<h3 align="center">An upcoming software developer from Birmingham, Alabama</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Databases**
 
