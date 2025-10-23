@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **DanielTHuyn@outlook.com**
 
-- ⚡ Fun fact **I'm a very active person, however I'm only active so that I can rot in bed after all is done.**
+- ⚡ Fun fact **I used to have a track-focused 10th-gen Civic that I built with my grandpa.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
