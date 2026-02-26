@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hdaniel82.github.io/](https://hdaniel82.github.io/)
 
-- 📫 How to reach me **DanielTHuyn@outlook.com**
+- 📫 How to reach me **danielhuynh8253@gmail.com**
 
 - ⚡ Fun fact **I used to have a track-focused 10th-gen Civic that I built with my grandpa.**
 
