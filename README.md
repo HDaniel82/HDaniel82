@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Huynh</h1>
 <h3 align="center">An upcoming software developer from Birmingham, Alabama</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Databases**
+- 🌱 I’m currently working on **Admin Database Page**
 
 - 👨‍💻 All of my projects are available at [https://hdaniel82.github.io/](https://hdaniel82.github.io/)
 
